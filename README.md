@@ -1,5 +1,5 @@
 # NFTEZ
-A demo for using the ChainSafe AllErc721/1155 functions
+Import NFT Data from any blockchain using the ChainSafe Web3Unity SDK
 
 ## WHAT IS THIS? 
 This is a simple demo setup for using the AllErc721/1155 functions for the ChainSafe Web3Unity SDK.
