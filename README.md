@@ -1,6 +1,8 @@
 # NFTEZ
 Import NFT Data from any blockchain using the ChainSafe Web3Unity SDK
 
+![Banner](https://user-images.githubusercontent.com/97366705/207487988-55e75600-7e36-43a8-8509-f87f14e8a819.jpg)
+
 ## WHAT IS THIS? 
 This is a simple demo setup for using the AllErc721/1155 functions for the ChainSafe Web3Unity SDK.
 
