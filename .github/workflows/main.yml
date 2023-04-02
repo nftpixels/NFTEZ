@@ -1,3 +1,5 @@
+# Example for posting release notes directly to discord
+
 name: Notification on push
 
 on:
