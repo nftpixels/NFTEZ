@@ -18,10 +18,6 @@ jobs:
         MESSAGE_DESCRIPTION: Find our more about our latest release!
         MESSAGE_URL: https://github.com/nftpixels/NFTEZ
         MESSAGE_COLOR: 5814783
-        CONTENT: null
-        MESSAGE_TITLE: "New Version"
-        MESSAGE_DESCRIPTION: "Tai Studio"
-        MESSAGE_URL: 'https://github.com/nftpixels/NFTEZ'
         SECTION_NAME: "ChangeLog"
         AUTHOR_NAME: "Rein"
         FOOTER_TEXT: "- Rein Weyers -"
