@@ -12,14 +12,9 @@ jobs:
       uses: LeGitHubDeTai/github-to-discord@main
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        DISCORD_USERNAME: Nftpixels
+        DISCORD_USERNAME: Rein Industries
         DISCORD_AVATAR: https://raw.githubusercontent.com/LeGitHubDeTai/github-to-discord/main/icon.png
-        MESSAGE_TITLE: New Version Released
-        MESSAGE_DESCRIPTION: Find our more about our latest release!
+        MESSAGE_TITLE: New Version
+        MESSAGE_DESCRIPTION: View the latest release notes
         MESSAGE_URL: https://github.com/nftpixels/NFTEZ
         MESSAGE_COLOR: 5814783
-        SECTION_NAME: "ChangeLog"
-        AUTHOR_NAME: "Rein"
-        FOOTER_TEXT: "- Rein Weyers -"
-        FOOTER_URL: "https://google.com"
-        IMAGE: null;
