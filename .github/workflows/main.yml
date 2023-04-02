@@ -12,14 +12,14 @@ jobs:
       uses: LeGitHubDeTai/github-to-discord@main
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_SECRET }}
-        DISCORD_USERNAME: Rein Studios
-        DISCORD_AVATAR: https://raw.githubusercontent.com/LeGitHubDeTai/github-to-discord/main/icon.png
-        MESSAGE_TITLE: New Version
+        DISCORD_USERNAME: ChainSafe Gaming
+        DISCORD_AVATAR: https://pbs.twimg.com/profile_images/1571957963564421120/iY35hgvW_400x400.png
+        MESSAGE_TITLE: Web3.Unity
         MESSAGE_DESCRIPTION: View the latest release notes
         MESSAGE_URL: https://github.com/nftpixels/NFTEZ/releases
         MESSAGE_COLOR: 5814783
-        AUTHOR_NAME: "Reinhardt Weyers"
-        FOOTER_TEXT: "Some Footer Text"
-        AUTHOR_URL: "https://google.com"
-        AUTHOR_AVATAR: "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg"
+        AUTHOR_NAME: "ChainSafe Gaming"
+        FOOTER_TEXT: "Web3.Unity"
+        AUTHOR_URL: "https://gaming.chainsafe.io/"
+        AUTHOR_AVATAR: "https://pbs.twimg.com/profile_images/1571957963564421120/iY35hgvW_400x400.png"
         
